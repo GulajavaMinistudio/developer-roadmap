@@ -6,17 +6,14 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you think that these can be improved in anyway, please do suggest.
 
-![split](https://i.imgur.com/QgVXt8U.png)
 
+<br>
 <p align="center">
-<b>🎉 I am preparing a FREE series on Fullstack Development  🎉</b><br><a href="http://youtube.com/c/kamranahmed_se">Subscribe to my youtube channel</a> if you are interested!
-  <p align="center">Few keywords – ES6, Tooling, React, Redux, Jest and Enzyme, NodeJS, Mocha and Chai<br>Everything is going to be <b>project based with real world usage</b></p>
+  <img src="https://i.imgur.com/KtQyIvc.png" width="750">
 </p>
-
-![split](https://i.imgur.com/QgVXt8U.png)
+<br>
 
 <sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
-
 
 
 ## 🚀 Introduction
@@ -25,7 +22,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ## 🎨 Front-end Roadmap
 
-![](https://i.imgur.com/WrfLESm.png)
+![](https://i.imgur.com/HwRpFz7.jpg)
 
 ## 👽 Back-end Roadmap
 
